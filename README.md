@@ -1,22 +1,11 @@
 # OF-Bypasser-Scraper
 Bypasses pay-walls and scrapes all the paid content on a creator's page.
 
-
-# Notice 
 OF-Bypasser CAN bypass pay walls
+
 
 # ReadMe
 
-
-
-```Text
-
-Docker and binary releases also availible
-```
-
-## Dev
-
-None
 
 ## Table-of-contents
 
